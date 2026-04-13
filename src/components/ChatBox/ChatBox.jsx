@@ -19,6 +19,13 @@ q               <p className='msg'>Lorem ipsum is placeholder text commonly used
                     <p>2:30 PM</p>
                 </div>
             </div>
+            <div className='s-msg'>
+q               <img className='msg-img' src={assets.pic1} alt=''></img>
+                <div>
+                    <img src={assets.profile_img} alt=''></img>
+                    <p>2:30 PM</p>
+                </div>
+            </div>
             <div className='r-msg'>
 q               <p className='msg'>Lorem ipsum is placeholder text commonly used in ..</p>
                 <div>
